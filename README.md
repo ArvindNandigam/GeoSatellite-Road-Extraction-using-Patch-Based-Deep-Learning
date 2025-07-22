@@ -1,2 +1,2 @@
 # GeoSatellite-Road-Extraction-using-Patch-Based-Deep-Learning
-This repository presents a deep learning pipeline for road segmentation from geo-satellite imagery. Leveraging patch-based processing and a custom U-Net architecture, the model efficiently learns to detect road networks from high-resolution satellite images. Designed to run on Google Colab with integration to Google Drive.
+This repository presents a deep learning pipeline for road segmentation from geo-satellite imagery. Leveraging patch-based processing and a custom U-Net architecture(also has a seperate Unet architecture , Unet++ architecture), the model efficiently learns to detect road networks from high-resolution satellite images. Designed to run on Google Colab with integration to Google Drive.
